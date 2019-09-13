@@ -1,5 +1,5 @@
 ---
-dev:
+Tomcat:
   - name: box1
     desc:
     enabled: true
@@ -9,14 +9,14 @@ dev:
   - name: box3
     desc:
     enabled: true
-qa:
+MySQL:
   - name: box4
     desc:
     enabled: true
   - name: box5
     desc:
     enabled: true
-prod:
+nginx:
   - name: box6
     desc:
     enabled: true

@@ -1,14 +1,34 @@
 ---
 dev:
-  - box1
-  - box2
-  - box3
+  - name: box1
+    desc:
+    enabled: true
+  - name: box2
+    desc:
+    enabled: true
+  - name: box3
+    desc:
+    enabled: true
 qa:
-  - box4
-  - box5
+  - name: box4
+    desc:
+    enabled: true
+  - name: box5
+    desc:
+    enabled: true
 prod:
-  - box6
-  - box7
-  - box8
-  - box9
-  - box10
+  - name: box6
+    desc:
+    enabled: true
+  - name: box7
+    desc:
+    enabled: true
+  - name: box8
+    desc:
+    enabled: true
+  - name: box9
+    desc:
+    enabled: true
+  - name: box10
+    desc:
+    enabled: true

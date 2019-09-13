@@ -1,34 +1,34 @@
 ---
 Tomcat:
   - name: box1
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box2
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box3
-    desc:
-    enabled: True
+    description:
+    enabled: False
 MySQL:
   - name: box4
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box5
-    desc:
-    enabled: True
+    description:
+    enabled: False
 nginx:
   - name: box6
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box7
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box8
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box9
-    desc:
-    enabled: True
+    description:
+    enabled: False
   - name: box10
-    desc:
-    enabled: True
+    description:
+    enabled: False
